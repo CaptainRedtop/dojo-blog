@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Testing title",
+      "body": "Some interesting text",
+      "author": "A random dude",
+      "id": "1"
+    },
+    {
+      "title": "Party all night long",
+      "body": "Some funny text",
+      "author": "Someone",
+      "id": "2"
+    }
+  ]
+}
